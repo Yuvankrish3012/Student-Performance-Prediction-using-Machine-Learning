@@ -82,17 +82,19 @@ Edit
 
 We’ve built a user-friendly **Streamlit UI** where you can input a student’s academic details and get a **predicted final grade**.
 
+![image](https://github.com/user-attachments/assets/08413874-d2aa-4b59-9c9a-426e53d69bc0)
+
+![image](https://github.com/user-attachments/assets/e33bac59-8dc8-45cc-b57f-7ffa632ecacb)
+
+
 📌 Launch the app:
 
 ```bash
 streamlit run "student_app.py"
 
-![image](https://github.com/user-attachments/assets/08413874-d2aa-4b59-9c9a-426e53d69bc0)
-
 css
 Copy
 Edit
-![image](https://github.com/user-attachments/assets/e33bac59-8dc8-45cc-b57f-7ffa632ecacb)
 
 🗂️ File Structure
 Copy
